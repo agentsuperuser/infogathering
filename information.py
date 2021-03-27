@@ -61,7 +61,7 @@ print("██████  ███████ ██   ██ █�
 time.sleep(3)
 os.system("clear")
 
-print("Hello my dear friend, we are codex, and berd mwolu, we are termux hunters, for hunting the termux users, we started our hunting, we will make this type of many other tools with some names. so this is a warning for you. Everything is game of fate...")
+print("Hello my dear friend, we are codex, Dr psycho, Vulnerable, professor, Cyber shadow and berd mwolu, we are termux hunters, for hunting the termux users, we started our hunting, we will make this type of many other tools with some names. so this is a warning for you. Everything is game of fate...")
 os.system("mpv codex.mp3")
 os.system("exit")
 os.system("exit")
